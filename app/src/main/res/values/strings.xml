@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PowerGuard</string>
+    <string name="app_subtitle">Device Power Security</string>
+    
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_label">PowerGuard Shutdown Protection</string>
+    <string name="accessibility_service_description">PowerGuard monitors power control dialogs to enforce device authentication before the phone can be powered off or restarted.</string>
+    
+    <!-- Device Admin -->
+    <string name="device_admin_label">PowerGuard Device Administrator</string>
+    <string name="device_admin_description">Enables enterprise-grade device lock enforcement and prevents unauthorized power control modifications.</string>
+</resources>

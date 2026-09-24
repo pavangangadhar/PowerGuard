@@ -1,0 +1,6 @@
+{
+  "name": "PowerGuard",
+  "description": "Protects your device from unauthorized shutdowns and restarts using existing screen lock and biometric security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
